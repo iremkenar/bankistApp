@@ -5,7 +5,7 @@ A minimalist online bank application allowing users to:
 - Request a loan from the bank
 - Delete their account
 
-Please see the login credentials for the users below:
+Here are the login credentials for the users:
 js-1111
 jd-2222
 stw-333
