@@ -11,4 +11,4 @@ Here are the login credentials for the users:
 * stw-333
 * ss-4444
 
-This project was built as a part of the [The Complete JavaScript Course] (https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann on Udemy.
+This project was built as a part of the [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann on Udemy.
